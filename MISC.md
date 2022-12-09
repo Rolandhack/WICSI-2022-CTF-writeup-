@@ -12,5 +12,5 @@ to display what is inside the document.xml file I just did a cat document.xml bu
 
 ![c](https://user-images.githubusercontent.com/96654079/206465689-f740f129-cfc4-42b8-8543-90e44eec4189.png)
 
-And bingo here is the flaag, for this challenge there are several methodologies to get there
+And bingo here is the flag, for this challenge there are several methodologies to get there
 ![fl](https://user-images.githubusercontent.com/96654079/206466295-b7e514f1-011d-4a46-b65a-80cc440beb1e.png)
